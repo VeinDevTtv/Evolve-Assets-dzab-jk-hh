@@ -1,0 +1,10 @@
+## EVOLVE CUSTOM ASSETS ##
+
+ensure [evolve_custom_assets]
+ensure [evolve_cars]
+ensure [evolve_custom_scripts]
+ensure [evolve_eup]
+ensure [evolve_sirens]
+ensure [evolve_maps]
+
+## END EVOLVE CUSTOM ASSETS ##
